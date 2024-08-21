@@ -1,2 +1,5 @@
 # aula-typescript
-Projetos do curso de Type Script do Unianchieta.
+Projetos do curso de Type Script do Unianchieta...
+
+Editado 
+Novamente
